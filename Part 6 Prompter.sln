@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 6 Prompter", "Part 6 Prompter.csproj", "{AF12CB29-87F7-4881-9A6F-BDEDE4BAFDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF12CB29-87F7-4881-9A6F-BDEDE4BAFDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF12CB29-87F7-4881-9A6F-BDEDE4BAFDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF12CB29-87F7-4881-9A6F-BDEDE4BAFDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF12CB29-87F7-4881-9A6F-BDEDE4BAFDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15130B1-A4AA-43DB-85B7-B92348CEA154}
+	EndGlobalSection
+EndGlobal
