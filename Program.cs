@@ -34,7 +34,7 @@ namespace Part_6_Prompter
                     user = Convert.ToInt32(Console.ReadLine());
             }
 
-            Console.WriteLine("Congratulations");
+            Console.WriteLine("Congratulations ");
 
 
             Console.ReadLine();
